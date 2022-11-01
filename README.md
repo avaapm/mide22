@@ -14,7 +14,7 @@ The dataset is composed of 10,348 tweets: 5,284 for English and 5,064 for Turkis
 | Label | Label of the tweet: True, False, or Other|
 | Tweet_id | Twitter ID of the tweet|
 
-Distribution of tweets in the dataset is as follows:
+Distribution of tweet counts in the dataset is as follows:
 
 | Lang | Topic | True | False | Other | Total |
 |----------|----------|----------|----------|----------|----------|
