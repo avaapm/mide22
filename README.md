@@ -2,7 +2,7 @@
 
 The dataset and related files of the study "Not Good Times for Lies: Misinformation Detection on the Russia-Ukraine War, COVID-19, and Refugees" is published under this repository.
 
-![Screenshot](img/composition_combined.png)
+![Screenshot](img/all_events.png)
 
 # Dataset
 The dataset is composed of 10,348 tweets: 5,284 for English and 5,064 for Turkish. Tweets in the dataset cover different topics: the Russia-Ukraine war, COVID-19 pandemic, Refugees, and additional miscellaneous events. Three misinformation label of the tweet are also given. Since we follow Twitter's Terms and Conditions, we publish tweet IDs not the tweet content directly. Explanations of the columns of the file are as follows:
