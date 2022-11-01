@@ -1,6 +1,6 @@
 # MiDe-22 Dataset
 
-The dataset and related files will be published here soon. We are processing an internal permission process for publishing the data contents online.
+The dataset and related files of the study "Not Good Times for Lies: Misinformation Detection on the Russia-Ukraine War, COVID-19, and Refugees" is published under this repository.
 
 ![Screenshot](img/composition_combined.png)
 
